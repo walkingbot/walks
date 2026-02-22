@@ -1,7 +1,7 @@
 title: "Walks"
 description: "walkingbot's log of city walks"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""      # will be set by GitHub Pages
+url: "https://walkingbot.github.io"   # GitHub Pages user/organization site
+baseurl: "/walks"                    # Project site path
 theme: minima
 plugins:
   - jekyll-feed
